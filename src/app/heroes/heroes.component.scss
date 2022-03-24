@@ -1,0 +1,32 @@
+.fff{
+  color: #336699;
+}
+
+
+.heroes{
+  list-style: none;
+  width: 300px;
+  padding: 0;
+
+  li{
+    margin-bottom: 10px;
+    background-color: aqua;
+    border-radius: 5px;
+  }
+  button{
+    width: 100%;
+    text-align: start;
+    background-color: transparent;
+    padding: 0;
+    border: 0;
+  }
+
+  .badge{
+    font-size: 1em;
+    background: #336699;
+    padding: 10px;
+  }
+  .hero-name{
+    padding: 10px;
+  }
+}
